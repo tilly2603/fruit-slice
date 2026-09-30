@@ -1,0 +1,6 @@
+{
+  "name": "Fruit Slice",
+  "description": "Arcade fruit slicing game inspired by Fruit Ninja with real-time AI hand & finger tracking, responsive slice physics, and combo system.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

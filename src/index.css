@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Fredoka', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    user-select: none;
+    -webkit-user-select: none;
+  }
+}
+
+.font-arcade {
+  font-family: 'Rubik Mono One', 'Fredoka', cursive, sans-serif;
+}
+
+.font-display {
+  font-family: 'Fredoka', cursive, sans-serif;
+}
+
+.text-glow-yellow {
+  text-shadow: 0 0 12px rgba(250, 204, 21, 0.8), 0 0 24px rgba(234, 179, 8, 0.6);
+}
+
+.text-glow-red {
+  text-shadow: 0 0 12px rgba(244, 63, 94, 0.8), 0 0 24px rgba(225, 29, 72, 0.6);
+}
+
+.text-glow-cyan {
+  text-shadow: 0 0 12px rgba(6, 182, 212, 0.8), 0 0 24px rgba(14, 165, 233, 0.6);
+}
+
+.text-glow-emerald {
+  text-shadow: 0 0 12px rgba(16, 185, 129, 0.8), 0 0 24px rgba(5, 150, 105, 0.6);
+}
